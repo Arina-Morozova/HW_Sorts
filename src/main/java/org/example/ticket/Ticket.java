@@ -1,3 +1,5 @@
+package org.example.ticket;
+
 import java.util.Objects;
 
 public class Ticket implements Comparable<Ticket> {
